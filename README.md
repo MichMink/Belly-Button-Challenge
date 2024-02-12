@@ -9,8 +9,8 @@
 -Html: index.html
 
 ## References
-Data for this dataset can be found at: https://robdunnlab.com/projects/belly-button-biodiversity/
-Graph templates for this dashboard can be found at: https://plotly.com/javascript/
+*Data for this dataset can be found at: https://robdunnlab.com/projects/belly-button-biodiversity/
+*Graph templates for this dashboard can be found at: https://plotly.com/javascript/
 
 ## Credits
 Michelle Minkowitz

@@ -13,5 +13,8 @@
 
 *Graph templates for this dashboard can be found at: https://plotly.com/javascript/
 
+## Final Dashboard:
+https://michmink.github.io/Belly-Button-Challenge/
+
 ## Credits
 Michelle Minkowitz
